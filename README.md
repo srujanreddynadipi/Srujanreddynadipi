@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**srujanreddynadipi/Srujanreddynadipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS and Express JS
 - 👯 I’m looking to collaborate on Frontend dev
@@ -12,7 +7,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: srujanreddynadipi@gmail.com
 - 😄 Pronouns: NSREDDY
--->
 
 
 ## 🌐 Socials:
